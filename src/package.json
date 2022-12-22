@@ -15,7 +15,7 @@
     "fastify-helmet": "^4.0.2",
     "fastify-swagger": "^3.1.1",
     "geoip-lite": "^1.4.2",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "middie": "^5.1.0",
     "node-pg-migrate": "^5.2.0",
     "node-uuid": "^1.4.8",
